@@ -9,8 +9,11 @@ First time and returning users should review the [documentation](https://github.
 
 Download:
 ----------------------------------
-Todo
+####Manually:####
+Click the "Download ZIP" button above to download our SDK distribution manually.
 
+####Via Gradle:####
+Todo
 
 Legal Requirements:
 ----------------------------------
