@@ -24,4 +24,4 @@ Note that U.S. based companies will need to complete the W-9 form and send it to
 
 Contact Us:
 ----------------------------------
-For more information, please visit AdColony.com. For questions or assistance, please email us at support@adcolony.com.
+For more information, please visit AdColony.com. For questions or assistance, please email us at aurora@adcolony.com.
