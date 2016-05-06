@@ -9,6 +9,8 @@ First time and returning users should review the [documentation](https://github.
 
 Download:
 ----------------------------------
+The 3.0 AdColony Android SDK will be available on May 16th. Please check back after that date to begin integration.
+
 ####Manually:####
 Click the "Download ZIP" button above to download our SDK distribution manually.
 
