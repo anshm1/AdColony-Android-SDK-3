@@ -1,6 +1,6 @@
 AdColony Android SDK
 ==================================
-Modified: April 28, 2016<br>
+Modified: May 18, 2016<br>
 SDK Version: 3.0.1.0
 
 Getting Started with AdColony:
@@ -9,8 +9,6 @@ First time and returning users should review the [documentation](https://github.
 
 Download:
 ----------------------------------
-The 3.0 AdColony Android SDK will be available on May 18th. Please check back after that date to begin integration.
-
 ####Manually:####
 Click the "Download ZIP" button above to download our SDK distribution manually.
 
