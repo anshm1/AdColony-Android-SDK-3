@@ -13,7 +13,7 @@ Download:
 Click the "Download ZIP" button above to download our SDK distribution manually.
 
 ####Via Gradle:####
-See the project setup page on our Wiki.
+See the [project setup page](https://github.com/AdColony/AdColony-Android-SDK-3/wiki/Project-Setup) on our Wiki.
 
 Change Logs:
 ----------------------------------
