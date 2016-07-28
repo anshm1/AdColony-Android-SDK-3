@@ -36,8 +36,7 @@ public class InterstitialActivity extends Activity
 
         /** Construct optional app options object to be sent with configure */
         AdColonyAppOptions app_options = new AdColonyAppOptions()
-                .setUserID( "unique_user_id" )
-                .setAppVersion( "3.0.1.0" );
+                .setUserID( "unique_user_id" );
 
         /**
          * Configure AdColony in your launching Activity's onCreate() method so that cached ads can

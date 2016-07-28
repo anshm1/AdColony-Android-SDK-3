@@ -1,7 +1,7 @@
 AdColony Android SDK
 ==================================
-Modified: May 18, 2016<br>
-SDK Version: 3.0.1.0
+Modified: July 28, 2016<br>
+SDK Version: 3.0.2.1
 
 Getting Started with AdColony:
 ----------------------------------
@@ -13,7 +13,15 @@ Download:
 Click the "Download ZIP" button above to download our SDK distribution manually.
 
 ####Via Gradle:####
-Todo
+See the project setup page on our Wiki.
+
+Change Logs:
+----------------------------------
+####3.0.2.1####
+1. Added support for native ads.<br>
+2. Added support for in-app purchase promo ads.<br>
+3. Added support for custom messages.<br>
+4. Various stability improvements/bug fixes.
 
 Legal Requirements:
 ----------------------------------
