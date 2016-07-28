@@ -17,7 +17,7 @@ See the project setup page on our Wiki.
 
 Change Logs:
 ----------------------------------
-####3.0.2.1####
+####3.0.2.1:####
 1. Added support for native ads.<br>
 2. Added support for in-app purchase promo ads.<br>
 3. Added support for custom messages.<br>
