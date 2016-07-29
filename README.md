@@ -25,7 +25,8 @@ Change Logs:
 1. Added support for native ads.<br>
 2. Added support for in-app purchase promo ads.<br>
 3. Added support for custom messages.<br>
-4. Various stability improvements/bug fixes.
+4. Introduction of AdColony Compass™.<br>
+5. Various stability improvements/bug fixes.
 
 Legal Requirements:
 ----------------------------------
