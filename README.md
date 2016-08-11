@@ -1,7 +1,7 @@
 AdColony Android SDK
 ==================================
-Modified: July 28, 2016<br>
-SDK Version: 3.0.2.1
+Modified: August 10, 2016<br>
+SDK Version: 3.0.2.2
 
 Getting Started with AdColony:
 ----------------------------------
@@ -21,6 +21,10 @@ See the [project setup page](https://github.com/AdColony/AdColony-Android-SDK-3/
 
 Change Logs:
 ----------------------------------
+####3.0.2.2####
+1. Ensure out of date files from earlier SDK installs are invalidated.
+
+===
 ####3.0.2.1:####
 1. Added support for native ads.<br>
 2. Added support for in-app purchase promo ads.<br>
