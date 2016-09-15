@@ -7,13 +7,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ProgressBar;
 
-import com.adcolony.ads.AdColony;
-import com.adcolony.ads.AdColonyAdOptions;
-import com.adcolony.ads.AdColonyAppOptions;
-import com.adcolony.ads.AdColonyInterstitial;
-import com.adcolony.ads.AdColonyInterstitialListener;
-import com.adcolony.ads.AdColonyUserMetadata;
-import com.adcolony.ads.AdColonyZone;
+import com.adcolony.sdk.*;
 
 public class InterstitialActivity extends Activity
 {

@@ -6,7 +6,7 @@ import android.util.Log;
 import android.widget.LinearLayout;
 import android.widget.Toast;
 
-import com.adcolony.ads.*;
+import com.adcolony.sdk.*;
 
 public class InstantFeedActivity extends Activity
 {
