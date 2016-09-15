@@ -1,7 +1,7 @@
 AdColony Android SDK
 ==================================
-Modified: August 10, 2016<br>
-SDK Version: 3.0.2.2
+Modified: September 13, 2016<br>
+SDK Version: 3.0.3.2
 
 Getting Started with AdColony:
 ----------------------------------
@@ -9,7 +9,7 @@ First time and returning users should review the [documentation](https://github.
 
 Thanks for joining AdColony on the next step in mobile monetization. We're committed to giving our partners the tools to grow, engage, and monetize successfully. Our Aurora SDK contains huge leaps forward in our capabilities, with benefits for both publishers and advertisers. We would also like to highlight the addition of AdColony Compass™ to our suite of products. AdColony Compass provides publishers with intuitive marketing tools to maximize the value of users throughout your app economy, like creating rewards, achievements, push notifications and in-app messaging.
 
-Please feel free to explore the Compass API. You can find it in our Javadoc under the [com.adcolony.pubservices package](https://adcolony-www-common.s3.amazonaws.com/Javadoc/3.0.2.1/com/adcolony/pubservices/package-summary.html). For more details on how you can take advantage of the Compass platform, please [click here](https://clients.adcolony.com/compass/info).
+Please feel free to explore the Compass API. You can find it in our Javadoc under the [com.adcolony.sdk package](https://adcolony-www-common.s3.amazonaws.com/Javadoc/3.0.3.2/index.html). For more details on how you can take advantage of the Compass platform, please [click here](https://clients.adcolony.com/compass/info).
 
 Download:
 ----------------------------------
@@ -21,6 +21,14 @@ See the [project setup page](https://github.com/AdColony/AdColony-Android-SDK-3/
 
 Change Logs:
 ----------------------------------
+####3.0.3.2####
+1. Support for vertical ads and improved ad orientation controls.<br>
+2. Added armeabi-v7a builds.<br>
+3. Added support for multi-screen.<br>
+4. Changed package name to com.adcolony.sdk.<br>
+5. Removed theme requirement for AdColony Activity manifest declarations.
+
+===
 ####3.0.2.2####
 1. Ensure out of date files from earlier SDK installs are invalidated.
 
