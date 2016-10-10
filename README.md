@@ -1,7 +1,7 @@
 AdColony Android SDK
 ==================================
-Modified: September 13, 2016<br>
-SDK Version: 3.0.3.2
+Modified: October 10, 2016<br>
+SDK Version: 3.0.4
 
 Getting Started with AdColony:
 ----------------------------------
@@ -21,6 +21,12 @@ See the [project setup page](https://github.com/AdColony/AdColony-Android-SDK-3/
 
 Change Logs:
 ----------------------------------
+####3.0.4####
+1. Initial public release.<br>
+2. Fixed issue with our x86 builds.<br>
+3. Various stability improvements/bug fixes.
+
+===
 ####3.0.3.2####
 1. Support for vertical ads and improved ad orientation controls.<br>
 2. Added armeabi-v7a builds.<br>
