@@ -9,7 +9,7 @@ First time and returning users should review the [documentation](https://github.
 
 Thanks for joining AdColony on the next step in mobile monetization. We're committed to giving our partners the tools to grow, engage, and monetize successfully. Our Aurora SDK contains huge leaps forward in our capabilities, with benefits for both publishers and advertisers. We would also like to highlight the addition of AdColony Compass™ to our suite of products. AdColony Compass provides publishers with intuitive marketing tools to maximize the value of users throughout your app economy, like creating rewards, achievements, push notifications and in-app messaging.
 
-Please feel free to explore the Compass API. You can find it in our Javadoc under the [com.adcolony.sdk package](https://adcolony-www-common.s3.amazonaws.com/Javadoc/3.0.3.2/index.html). For more details on how you can take advantage of the Compass platform, please visit [adcolony.com](https://clients.adcolony.com/compass/info) or [here](https://github.com/AdColony/AdColony-Android-SDK-3/wiki/Compass-Features) for Compass Documentation.
+Please feel free to explore the [Compass Platform](https://github.com/AdColony/AdColony-Android-SDK-3/wiki/Compass-Features). For more details on how you can take advantage of Compass, please click [here](https://clients.adcolony.com/compass/info).
 
 Download:
 ----------------------------------
@@ -25,6 +25,7 @@ Change Logs:
 1. Initial public release.<br>
 2. Fixed issue with our x86 builds.<br>
 3. Various stability improvements/bug fixes.
+4. Added messaging features to Compass, which includes both in-app messages and push notifications.
 
 ===
 ####3.0.3.2####
