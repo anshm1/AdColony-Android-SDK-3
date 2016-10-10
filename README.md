@@ -11,6 +11,10 @@ Thanks for joining AdColony on the next step in mobile monetization. We're commi
 
 Please feel free to explore the [Compass Platform](https://github.com/AdColony/AdColony-Android-SDK-3/wiki/Compass-Overview). For more details on how you can take advantage of Compass, please click [here](https://clients.adcolony.com/compass/info).
 
+Updating from Our 2.x SDK:
+----------------------------------
+Updating from our AdColony 2.x SDK is not a drag and drop update, but rather includes breaking API and process changes. Please review our [documentation](https://github.com/AdColony/AdColony-Android-SDK-3/wiki) to get a better idea on what changes will be necessary in your app.
+
 Download:
 ----------------------------------
 ####Manually:####
